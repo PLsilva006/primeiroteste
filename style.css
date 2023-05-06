@@ -1,0 +1,14 @@
+
+header, main, footer{
+    /* largura das tags */
+width: 800px;
+
+/* cor de fundo */
+background-color: rgb(0, 0, 0);
+
+/* centralizar as tags no centro da pagina  */
+margin: auto;
+
+/* mudar a cor da fonte */ 
+color: aliceblue;
+}
